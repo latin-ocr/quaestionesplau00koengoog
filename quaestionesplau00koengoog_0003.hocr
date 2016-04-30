@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesplau00koengoog_0003.png"; bbox 0 0 1267 1540; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 361 426 723 757">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 361 426 723 757">
+     <span class='ocr_line' id='line_1_1' title="bbox 361 426 723 757; baseline 0 783"><span class='ocrx_word' id='word_1_1' title='bbox 361 426 723 757; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 471 771 739 795">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 471 771 739 795">
+     <span class='ocr_line' id='line_1_2' title="bbox 471 771 739 795; baseline -0.007 -3"><span class='ocrx_word' id='word_1_2' title='bbox 471 771 558 792; x_wconf 50' lang='lat' dir='ltr'>„arhart</span> <span class='ocrx_word' id='word_1_3' title='bbox 572 771 647 795; x_wconf 69' lang='lat' dir='ltr'>etnlltm</span> <span class='ocrx_word' id='word_1_4' title='bbox 660 771 739 795; x_wconf 63' lang='lat' dir='ltr'><strong>libram</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 564 815 646 825">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 564 815 646 825">
+     <span class='ocr_line' id='line_1_3' title="bbox 564 815 646 825; baseline -0.012 0"><span class='ocrx_word' id='word_1_5' title='bbox 564 816 606 825; x_wconf 67' lang='lat' dir='ltr'>nom</span> <span class='ocrx_word' id='word_1_6' title='bbox 615 815 646 825; x_wconf 72' lang='lat' dir='ltr'>ruz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 475 846 722 862">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 475 846 722 862">
+     <span class='ocr_line' id='line_1_4' title="bbox 475 846 722 862; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 475 846 638 862; x_wconf 81' lang='lat' dir='ltr'>CONSTANTmS</span> <span class='ocrx_word' id='word_1_8' title='bbox 653 846 722 862; x_wconf 77' lang='lat' dir='ltr'>FUND.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 432 871 777 1078">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 432 871 777 1078">
+     <span class='ocr_line' id='line_1_5' title="bbox 432 871 777 1078; baseline 0 462"><span class='ocrx_word' id='word_1_9' title='bbox 432 871 777 1078; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
